@@ -1,0 +1,68 @@
+body {
+    min-height: 90vh;
+    background-image: url("https://img.freepik.com/premium-vector/background-with-colorful-shopping-bags-vector-illustration-sale-discount-concept_653240-59.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #7a90a9;
+  }
+  .container {
+    width: 60%;
+    height: 450px;
+    background-color: #ffffff;
+    border: 1px solid transparent;
+    opacity: 0.9;
+    border-radius: 7px;
+  }
+  .totale {
+    border-bottom: 1px solid #d2d4d6;
+  }
+  .totale p {
+    margin-left: 30px;
+    font-size: 18px;
+    color: #4a4b4c;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+  }
+  .fas {
+    color: #aab8c2 ;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 15px;
+    border-bottom: 1px solid #d2d4d6;
+  }
+  
+  .lastrow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 15px;
+  }
+  span {
+    color: #4a4b4c;
+  }
+  
+  .price {
+    color: #7a90a9;
+  }
+  
+  .fa-heart {
+    color: grey;
+  }
+  
+  .red {
+    color: red;
+  }
+  
